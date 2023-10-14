@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gauthami Aithal"
+title                    : "Chronicles of Gauthami"
 title_separator          : "-"
 name                     : &name "Gauthami Aithal"
 description              : &description "Data Scientist"
@@ -87,7 +87,7 @@ author:
   name             : "Gauthami Aithal"
   avatar           : "profile.png"
   bio              : "Data Scientist in the making!"
-  location         :
+  location         : "Boulder, USA"
   employer         :
   pubmed           :
   orcid            : 
