@@ -1,11 +1,11 @@
 ---
 title: "Conflict event data"
 layout: single-portfolio
-excerpt: "<img src='/images/research/map.png' alt=''>"
-collection: research
+excerpt: "<img src='/images/projects/map.png' alt=''>"
+collection: projects
 order_number: 20
 header: 
-  og_image: "research/map.png"
+  og_image: "projects/map.png"
 ---
 
 In this set of projects, I leverage geospatial event data to explore the microlevel dynamics of political violence. What role can violence at the local level serve in advancing broader political ends? What explains patterns of action and reaction between actors engaged in different types of political violence? How do the differing roles the UN peacekeepers play affect the likelihood that rebel fighters will target them?
@@ -16,7 +16,7 @@ Christian Oswald, Melanie Sauter, Sigrid Weber, and Rob Williams. "Under the Roo
 
 > Do rebels target civilians as part of the process of establishing control in their territories? This research note shows that transition periods after rebels gain territorial control are remarkably violent for civilians. Speaking to the civilian victimization and rebel governance literature, we investigate the immediate time period after rebels successfully capture and hold territory. We argue that rebels use violence to gain compliance in newly captured territories until they are able to build up local capacities and institutions for peaceful governance. To test this argument, we draw on methodological advances in integrating event data and combine multiple datasets to study patterns of violence perpetrated by the Revolutionary United Front in Sierra Leone from 1997-2001. The findings of our spatiotemporal analysis show that civilian targeting increases in the period after rebels capture territory from the government compared to areas without territorial takeover, suggesting that life under the roof of rebels is initially more dangerous for civilians.
 
-[Article](https://doi.org/10.1093/isq/sqaa009){: .btn--research} [Preprint](/files/pdf/research/Under the Roof of Rebels.pdf){: .btn--research} [Supplemental Information](/files/pdf/research/Under the Roof of Rebels SI.pdf){: .btn--research} [Replication Archive](https://doi.org/10.7910/DVN/BEKPWV){: .btn--research}
+<!-- [Article](https://doi.org/10.1093/isq/sqaa009){: .btn--research} [Preprint](/files/pdf/research/Under the Roof of Rebels.pdf){: .btn--research} [Supplemental Information](/files/pdf/research/Under the Roof of Rebels SI.pdf){: .btn--research} [Replication Archive](https://doi.org/10.7910/DVN/BEKPWV){: .btn--research} -->
 
 ## Working papers
 

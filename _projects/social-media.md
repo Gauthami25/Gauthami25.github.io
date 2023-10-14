@@ -1,11 +1,11 @@
 ---
 title: "Social media data"
 layout: single-portfolio
-excerpt: "<img src='/images/research/ternary.png' alt=''>"
-collection: research
+excerpt: "<img src='/images/projects/ternary.png' alt=''>"
+collection: projects
 order_number: 40
 header: 
-  og_image: "research/ternary.png"
+  og_image: "projects/ternary.png"
 ---
 
 In these projects I leverage social media data to study the early stages of
