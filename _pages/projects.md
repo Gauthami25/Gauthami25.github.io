@@ -21,6 +21,14 @@ header:
 {% endfor %}
 
 
+
+
+
+
+
+
+
+
 **My Data Journey**
 
 🏁 **The beginnings**: A Boston Dynamics video of a robot dog named BigDog ignited my fascination with Electrical Engineering, setting the course for my under graduate degree. Growing up, understanding the "Whys" and "Hows" was important and and I was certain that this path was the right one.
