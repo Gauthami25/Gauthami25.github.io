@@ -32,9 +32,9 @@ To save yourself some time  do this faster, simply press <kbd>Ctrl</kbd>+<kbd>c<
 
 Conclusion: The average CPU usage is only about 7% of what was being provisioned
 
-## Solution: 
+## Solution: Predictive Scheduling and provisioning of resources
 
-![](/images/posts/creating-website/p1_i2.png)
+![](/images/posts/creating-website/p1_i3.png)
 
 Machine Learning Algorithm to predict in advance, the resource required to ensure smooth functioning.
 
