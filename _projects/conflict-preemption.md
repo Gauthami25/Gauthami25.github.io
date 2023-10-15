@@ -13,11 +13,15 @@ header:
 
 # Project Overview
 
-The primary objective of this project is to establish a framework for real-time predictive analytics, specifically for the efficient provisioning of cloud resources. This framework is intended to assist organizations in transitioning towards a machine learning-based approach for resource provisioning  usage tracking, with a focus on making real-time predictions  automating resource scheduling. This shift is essential due to the considerable manual effort currently required for setting resource limits  provisioning, as companies grapple with the challenge of balancing cost minimization  ensuring system uptime  availability.
+📌 The primary objective of this project is to establish a framework for real-time predictive analytics for the efficient provisioning of cloud resources. 
 
-To support this endeavor, I leveraged the Grid Workloads Archive dataset, which contains valuable performance metrics from virtual machines in a distributed datacenter managed by Bitbrains. By harnessing this dataset, I started working on the development of a predictive model designed to offer more intelligent resource usage forecasts. This process involved a multifaceted approach, including time-series analysis, advanced regression techniques,  time series cross-validation, all executed within Python using the sklearn library, to both characterize resource usage patterns  identify key predictive features.
+📌 This framework is intended to assist organizations in transitioning towards a machine learning-based approach for resource provisioning, usage tracking, with a focus on making real-time predictions, automating resource scheduling.
 
-Furthermore, I harnessed the power of DeepAR on the AWS platform to enable real-time analytics, enhancing the capabilities of this framework.
+📌 This shift is essential due to the considerable manual effort currently required for setting resource limits  provisioning, as companies grapple with the challenge of balancing cost minimization ensuring system uptime  availability.
+
+📌 I leveraged the Grid Workloads Archive dataset, which contains valuable performance metrics from virtual machines in a distributed datacenter managed by Bitbrains. I worked on the development of a predictive model designed to offer more intelligent resource usage forecasts. This process involved a multifaceted approach, including time-series analysis, advanced regression techniques,  time series with cross-validation to characterize resource usage patterns and identify key predictive features.
+
+📌 I harnessed the power of DeepAR on the AWS platform to enable real-time analytics, enhancing the capabilities of this framework.
 
 <!-- > A brief aside on Git-speak: these periodic indented blocks will explain the terminology that Git uses to help you underst what each Git comm actually does.
 
