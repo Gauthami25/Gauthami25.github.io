@@ -7,4 +7,3 @@ order_number: 20
 header: 
   og_image: "projects/Robust_Captcha_using_GANs.png"
 ---
-
