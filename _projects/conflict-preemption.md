@@ -4,6 +4,7 @@ layout: single-portfolio
 excerpt: "<img src='/images/projects/real_time_log_analytics.png' alt=''>"
 collection: projects
 order_number: 10
+toc: true
 header: 
   og_image: "projects/real_time_log_analytics.png"
 ---
