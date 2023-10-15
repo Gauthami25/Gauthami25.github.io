@@ -33,4 +33,3 @@ header:
 {% endfor %}
 
 
-**My Data Journey**
