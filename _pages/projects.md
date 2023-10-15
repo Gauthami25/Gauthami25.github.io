@@ -10,7 +10,7 @@ header:
 
 **Some of my projects that were fun to work on**
 
-<nbsp>
+
 
 {% include base_path %}
 
@@ -20,14 +20,7 @@ header:
   {% include archive-single.html type="grid" %}
 {% endfor %}
 
-
-
-
-
-
-
-
-
+<nbsp>
 
 **My Data Journey**
 
