@@ -1,6 +1,6 @@
 ---
 title: "Image Captioning"
-layout: single-portfolio
+# layout: single-portfolio
 excerpt: "<img src='/images/projects/Image_Captioning.png' alt=''>"
 collection: projects
 order_number: 40
