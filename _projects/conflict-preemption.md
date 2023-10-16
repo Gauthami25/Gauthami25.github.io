@@ -42,9 +42,7 @@ Conclusion: The average CPU usage is only about 7% of what was being provisioned
 
 Machine Learning Algorithm to predict in advance, the resource required to ensure smooth functioning.
 
-[Link to project on Github](https://github.com/Gauthami25/Projects/tree/main/Analysis%20on%20Cyber%20Security%20data)
+[Link to project on Github](https://github.com/Gauthami25/Predictive-Forecasting/tree/main)
 
 
-
-<!-- ## Who this guide is for -->
 
