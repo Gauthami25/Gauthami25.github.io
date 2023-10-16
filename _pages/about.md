@@ -17,6 +17,6 @@ redirect_from:
 💻 I've had the privilege of experiencing both industry and academia. It's been a whirlwind adventure, and I'm just getting started.
 
 🌳 When I'm not wrangling data or diving into code, I'm out exploring the outdoors. Nature's my sanctuary, and I'm always up for a hike or a leisurely stroll. And if you see me trying to convince a squirrel to join my team, don't be surprised - they've got mad debugging skills.
-When it comes rejuvenating myself, Badminton is my game of choice, a perfect blend of strategy and sweat. It's my go-to for blowing off steam and staying on top of my game.
+When it comes rejuvenating myself, Badminton is my game of choice, a perfect blend of strategy and sweat.
 
 ⭐ Life lesson I come to time and again: The fun's in the journey, not just the destination.
