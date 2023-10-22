@@ -13,29 +13,29 @@ header:
 
 📌 Spotify Dashboard in Power BI that provides a comprehensive overview of the music you love! The dashboard provides a well-rounded view of the music, allowing users to explore track details, understand musical features, track popularity, and analyze release patterns. The interactive elements, such as filters and slicers, enhance the user experience and enable deeper exploration of the data.
 
-📌 
+📌 Dashboard metrics
 
-Track Information Section:
+**Track Information Section:**
 Displays essential details about tracks, including their names, artist names, release dates (year, month, and day).
 This section allows users to quickly glance at specific track details.
 
-Music Information Section:
+**Music Information Section:**
 Offers insights into musical features like danceability, valence, energy, etc., using scatter plots or bubble charts.
 Users can interactively explore relationships between these features.
 
-Average Streams per Year:
+**Average Streams per Year:**
 Provides a high-level metric indicating the average number of streams per year.
 This measure helps users understand the overall popularity trends of tracks over time.
 
-Track by Release Date:
+**Track by Release Date:**
 Depicts the distribution of tracks released over the years.
 This chart allows users to see how the release frequency has evolved.
 
-Track by Number of Streams:
+**Track by Number of Streams:**
 Offers a visual representation of tracks ranked by the number of streams they've received.
 Users can quickly identify the most popular tracks in terms of streams.
 
-Deneb Chart with Daily Releases:
+**Deneb Chart with Daily Releases:**
 Presents a matrix or table showing the number of tracks released each day, organized by month.
 Users can analyze release patterns based on specific days and months.
 
