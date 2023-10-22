@@ -24,7 +24,7 @@ Displays essential details about tracks, including their names, artist names, re
 This section allows users to quickly glance at specific track details.
 
 **Music Information Section:**
-Offers insights into musical features like danceability, valence, energy, etc., using scatter plots or bubble charts.
+Offers insights into musical features like danceability, valence, energy, etc. 
 Users can interactively explore relationships between these features.
 
 **Average Streams per Year:**
@@ -40,12 +40,8 @@ Offers a visual representation of tracks ranked by the number of streams they've
 Users can quickly identify the most popular tracks in terms of streams.
 
 **Deneb Chart with Daily Releases:**
-Presents a matrix or table showing the number of tracks released each day, organized by month.
+Presents a matrix/table showing the number of tracks released each day, organized by month.
 Users can analyze release patterns based on specific days and months.
-
-Overall, the dashboard provides a well-rounded view of your music dataset, allowing users to explore track details, understand musical features, track popularity, and analyze release patterns. The interactive elements, such as filters and slicers, enhance the user experience and enable deeper exploration of the data. Keep the dashboard updated with new data to ensure it remains a valuable tool for insights and analysis.
-
-
 
 
 
