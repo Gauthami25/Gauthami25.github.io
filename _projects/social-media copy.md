@@ -54,7 +54,6 @@ Overall, the dashboard provides a well-rounded view of your music dataset, allow
 
 To save yourself some time  do this faster, simply press <kbd>Ctrl</kbd>+<kbd>c</kbd>.[^2] -->
 
-![](/images/posts/creating-website/p5_i1.png)
 
 
 [Link to project on Github](https://github.com/Gauthami25/Spotify-Dashboard/tree/main)
