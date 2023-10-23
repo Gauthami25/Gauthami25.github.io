@@ -1,11 +1,11 @@
 ---
 title: "Resource Usage - Predictive Scheduling"
-# layout: single
+# layout: single-portfolio
 excerpt: "<img src='/images/projects/real_time_log_analytics.png' alt=''>"
 collection: projects
 order_number: 10
-toc: true
-toc_label: "My Table of Contents"
+# toc: true
+# toc_label: "My Table of Contents"
 # toc_icon: "cog"
 header: 
   og_image: "projects/real_time_log_analytics.png"
