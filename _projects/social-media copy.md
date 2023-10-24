@@ -1,6 +1,6 @@
 ---
 title: "Spotify Dashboard"
-# layout: single-portfolio
+layout: single-portfolio
 excerpt: "<img src='/images/posts/creating-website/p5_i1.png' alt=''>"
 collection: projects
 order_number: 40
