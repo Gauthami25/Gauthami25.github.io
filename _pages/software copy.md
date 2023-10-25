@@ -59,10 +59,3 @@ author_profile: true
 <!-- 
 ![](/images/posts/creating-website/C3-Optimize ML Models and Deploy Human-in-the-Loop Pipelines.png) -->
 <img src="/images/posts/creating-website/C3-Optimize ML Models and Deploy Human-in-the-Loop Pipelines.png" alt="image" width="400" height="auto">
-<!-- <style type="text/css">
-    img {
-        width: 300px;
-    }
-</style> -->
-<!-- 🏁 **The beginnings**: A Boston Dynamics video of a robot dog named BigDog ignited my fascination with Electrical Engineering, setting the course for my under graduate degree. Growing up, understanding the "Whys" and "Hows" was important and and I was certain that this path was the right one.
-
