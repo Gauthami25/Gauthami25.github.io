@@ -34,11 +34,11 @@ author_profile: true
 
 **2.Practical Data Science on the AWS Cloud Specialization**
 
-**## 2.1 Analyze Datasets and Train ML Models using AutoML**
+## **2.1 Analyze Datasets and Train ML Models using AutoML**
 ![](/images/posts/creating-website/C1-Analyze Datasets and Train ML Models using AutoML.png)
 
-**## 2.2 C2- Build, Train, and Deploy ML Pipelines using BERT**
-![](/images/posts/creating-website/Build, Train, and Deploy ML Pipelines using BERT.png)
+## **2.2 C2- Build, Train, and Deploy ML Pipelines using BERT**
+![](/images/posts/creating-website/Build Train and Deploy ML Pipelines using BERT.png)
 
 <!-- 🏁 **The beginnings**: A Boston Dynamics video of a robot dog named BigDog ignited my fascination with Electrical Engineering, setting the course for my under graduate degree. Growing up, understanding the "Whys" and "Hows" was important and and I was certain that this path was the right one.
 
