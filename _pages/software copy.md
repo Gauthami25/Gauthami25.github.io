@@ -29,22 +29,36 @@ author_profile: true
 
 <!-- **Certifications** -->
 
-**1. Amazon Cloud Practitioner**
-<img src="/images/posts/creating-website/AWS.png" alt="image" width="300" height="auto">
+**1. Amazon Cloud Practitioner**  
+
+<img src="/images/posts/creating-website/AWS.png" alt="image" width="400" height="auto">
 <!-- ![AWS|300x300](/images/posts/creating-website/AWS.png) -->
 
-**2. Practical Data Science on the AWS Cloud Specialization**
-![](/images/posts/creating-website/Final_certificate.png)
+**2. Practical Data Science on the AWS Cloud Specialization**  
 
-**2.1 Analyze Datasets and Train ML Models using AutoML**
-![](/images/posts/creating-website/C1-Analyze Datasets and Train ML Models using AutoML.png)
+
+<!-- ![](/images/posts/creating-website/Final_certificate.png) -->
+<img src="/images/posts/creating-website/Final_certificate.png" alt="image" width="400" height="auto">
+
+**2.1 Analyze Datasets and Train ML Models using AutoML**  
+
+<!-- 
+![](/images/posts/creating-website/C1-Analyze Datasets and Train ML Models using AutoML.png) -->
+<img src="/images/posts/creating-website/C1-Analyze Datasets and Train ML Models using AutoML.png" alt="image" width="400" height="auto">
+
 
 **2.2 Build, Train, and Deploy ML Pipelines using BERT**
-![](/images/posts/creating-website/Build Train and Deploy ML Pipelines using BERT.png)
+
+
+<!-- ![](/images/posts/creating-website/Build Train and Deploy ML Pipelines using BERT.png) -->
+<img src="/images/posts/creating-website/Build Train and Deploy ML Pipelines using BERT.png" alt="image" width="400" height="auto">
+
 
 **2.3 Optimize ML Models and Deploy Human-in-the-Loop Pipelines**
-![](/images/posts/creating-website/C3-Optimize ML Models and Deploy Human-in-the-Loop Pipelines.png)
 
+<!-- 
+![](/images/posts/creating-website/C3-Optimize ML Models and Deploy Human-in-the-Loop Pipelines.png) -->
+<img src="/images/posts/creating-website/C3-Optimize ML Models and Deploy Human-in-the-Loop Pipelines.png" alt="image" width="400" height="auto">
 <!-- <style type="text/css">
     img {
         width: 300px;
