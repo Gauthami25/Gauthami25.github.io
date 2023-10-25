@@ -30,7 +30,8 @@ author_profile: true
 <!-- **Certifications** -->
 
 **1. Amazon Cloud Practitioner**
-![AWS|300x300](/images/posts/creating-website/AWS.png)
+<img src="/images/posts/creating-website/AWS.png" alt="image" width="300" height="auto">
+<!-- ![AWS|300x300](/images/posts/creating-website/AWS.png) -->
 
 **2. Practical Data Science on the AWS Cloud Specialization**
 ![](/images/posts/creating-website/Final_certificate.png)
@@ -42,7 +43,7 @@ author_profile: true
 ![](/images/posts/creating-website/Build Train and Deploy ML Pipelines using BERT.png)
 
 **2.3 Optimize ML Models and Deploy Human-in-the-Loop Pipelines**
-![](/images/posts/C3-Optimize ML Models and Deploy Human-in-the-Loop Pipelines.png)
+![](/images/posts/creating-website/C3-Optimize ML Models and Deploy Human-in-the-Loop Pipelines.png)
 
 <!-- <style type="text/css">
     img {
