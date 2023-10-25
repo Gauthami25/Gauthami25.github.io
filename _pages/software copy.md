@@ -30,7 +30,7 @@ author_profile: true
 <!-- **Certifications** -->
 
 **1. Amazon Cloud Practitioner**
-![](/images/posts/creating-website/AWS.png)
+![AWS|400x300](/images/posts/creating-website/AWS.png)
 
 **2. Practical Data Science on the AWS Cloud Specialization**
 ![](/images/posts/creating-website/Final_certificate.png)
@@ -44,11 +44,11 @@ author_profile: true
 **2.3 Optimize ML Models and Deploy Human-in-the-Loop Pipelines**
 ![](/images/posts/C3-Optimize ML Models and Deploy Human-in-the-Loop Pipelines.png)
 
-<style type="text/css">
+<!-- <style type="text/css">
     img {
         width: 300px;
     }
-</style>
+</style> -->
 <!-- 🏁 **The beginnings**: A Boston Dynamics video of a robot dog named BigDog ignited my fascination with Electrical Engineering, setting the course for my under graduate degree. Growing up, understanding the "Whys" and "Hows" was important and and I was certain that this path was the right one.
 
 🎓 **Undergrad Enlightenment**: College was an eye-opener. Here is where, Calculus, Statistics, Optimization, and Probability met reality and it became clear that these were crucial for real-world problem-solving.
