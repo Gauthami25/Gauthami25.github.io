@@ -30,7 +30,7 @@ author_profile: true
 <!-- **Certifications** -->
 
 **1. Amazon Cloud Practitioner**
-![](/images/posts/creating-website/AWS.png)
+![](/images/posts/creating-website/AWS.png){ width=50% }
 
 **2.Practical Data Science on the AWS Cloud Specialization**
 
