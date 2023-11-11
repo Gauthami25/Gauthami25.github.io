@@ -9,7 +9,7 @@ header:
 ---
 
 
-## Project Overview
+### Project Overview
 
 📌 In this project, I took on the task of implementing an encoder-decoder image captioning system. This involved utilizing a pre-trained Convolutional Neural Network to encode the image, resulting in the production of a hidden state. This hidden state was then decoded using an LSTM to generate a descriptive caption.
 

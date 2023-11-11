@@ -11,7 +11,7 @@ header:
   og_image: "projects/real_time_log_analytics.png"
 ---
 
-## Project Overview
+### Project Overview
 
 📌 The primary objective of this project is to establish a framework for real-time predictive analytics for the efficient provisioning of cloud resources. 
 
