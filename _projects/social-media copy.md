@@ -9,7 +9,7 @@ header:
 ---
 
 
-# Project Overview
+## Project Overview
 
 📌 Spotify Dashboard in Power BI that provides a comprehensive overview of the music you love! The dashboard provides a well-rounded view of the music, allowing users to explore track details, understand musical features, track popularity, and analyze release patterns. The interactive elements, such as filters and slicers, enhance the user experience and enable deeper exploration of the data.
 

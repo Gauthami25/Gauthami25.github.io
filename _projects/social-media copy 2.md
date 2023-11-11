@@ -9,7 +9,7 @@ header:
 ---
 
 
-# Project Overview
+## Project Overview
 
 📌 Sales Dashboard in Power BI report that is designed for effortless navigation and clear insights into product sales. It comprises of three pages: Homepage, Sales, and Ratings.
 
@@ -20,7 +20,6 @@ header:
 
 📌 Displays key performance indicators (KPIs) prominently. Enables seamless navigation to Sales and Ratings pages.
 
-Sales Page:
 
 **Sales**
 
@@ -28,7 +27,7 @@ Sales Page:
 
 📌 Highlights year-to-date (YTD) sales trends and units sold.Facilitates easy comparison and correlation analysis. Includes a user-friendly filter pane for dynamic data exploration.
 
-Ratings Page:
+
 
 **Ratings**
 
