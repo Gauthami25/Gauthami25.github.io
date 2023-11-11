@@ -26,7 +26,9 @@ header:
 
 ![](/images/posts/creating-website/Page2.png)
 
-📌 Highlights year-to-date (YTD) sales trends and units sold.Facilitates easy comparison and correlation analysis. Includes a user-friendly filter pane for dynamic data exploration.
+📌 Highlights year-to-date (YTD) sales trends and units sold.
+📌 Facilitates easy comparison and correlation analysis. 
+📌 Includes a user-friendly filter pane for dynamic data exploration.
 
 
 
