@@ -9,7 +9,8 @@ header:
 ---
 
 
-### Project Overview
+
+## Project Overview
 
 📌 Sales Dashboard in Power BI report that is designed for effortless navigation and clear insights into product sales. It comprises of three pages: Homepage, Sales, and Ratings.
 

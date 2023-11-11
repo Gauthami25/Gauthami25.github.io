@@ -10,7 +10,7 @@ header:
 
 
 
-### Project Overview
+## Project Overview
 
 📌 In this project, I delved into the world of CAPTCHAs, aiming to uncover their susceptibilities to automated bot detection using advanced deep-learning techniques. 
 
