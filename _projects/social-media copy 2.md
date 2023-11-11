@@ -1,7 +1,7 @@
 ---
 title: "Sales Dashboard"
 layout: single-portfolio
-excerpt: "<img src='/images/posts/creating-website/p5_i1.png' alt=''>"
+excerpt: "<img src='/images/posts/creating-website/Page2.png' alt=''>"
 collection: projects
 order_number: 60
 header: 
@@ -18,23 +18,24 @@ header:
 
 ![](/images/posts/creating-website/Page1.png)
 
-Displays key performance indicators (KPIs) prominently.
-Enables seamless navigation to Sales and Ratings pages.
+📌 Displays key performance indicators (KPIs) prominently. Enables seamless navigation to Sales and Ratings pages.
+
 Sales Page:
 
 **Sales**
 
 ![](/images/posts/creating-website/Page2.png)
 
-Highlights year-to-date (YTD) sales trends and units sold.Facilitates easy comparison and correlation analysis.
-Includes a user-friendly filter pane for dynamic data exploration.
+📌 Highlights year-to-date (YTD) sales trends and units sold.Facilitates easy comparison and correlation analysis. Includes a user-friendly filter pane for dynamic data exploration.
+
 Ratings Page:
 
 **Ratings**
 
 ![](/images/posts/creating-website/Page3.png)
 
-Presents product ratings in the US market.
+📌 Presents product ratings in the US market.
+
 
 This setup ensures a user-friendly experience, making it simple to access critical information and explore sales data across dimensions.
 
