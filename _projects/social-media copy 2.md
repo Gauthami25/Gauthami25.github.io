@@ -15,11 +15,13 @@ header:
 📌 Sales Dashboard in Power BI report that is designed for effortless navigation and clear insights into product sales. It comprises of three pages: Homepage, Sales, and Ratings.
 
 
+
 **Homepage**
 
 ![](/images/posts/creating-website/Page1.png)
 
 📌 Displays key performance indicators (KPIs) prominently. Enables seamless navigation to Sales and Ratings pages.
+
 
 
 **Sales**
